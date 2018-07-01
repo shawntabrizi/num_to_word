@@ -1,0 +1,6 @@
+[package]
+name = "num_to_word"
+version = "0.1.0"
+authors = ["Shawn Tabrizi <shawntabrizi@gmail.com>"]
+
+[dependencies]
